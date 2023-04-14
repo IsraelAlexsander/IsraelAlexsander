@@ -1,7 +1,7 @@
 ### Opa👋 Seja Bem Vindo </br>
 
 <div>
-  <a href = "https://github.com/IsraelAlexsander">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=IsraelAlexsander&include_all_commits=true&count_private=true&show_icons=true&theme=dark&locale=pt-br"/><br/>    
-  <img hight = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelAlexsander&languagecount=8&theme=tokyonight&locale=pt-br&count_private=true"/>
-</div></br>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsraelAlexsander&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelAlexsander&layout=compact&langs_count=16&theme=dark"/>
+</div>
